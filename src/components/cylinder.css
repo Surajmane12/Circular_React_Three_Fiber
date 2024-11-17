@@ -1,0 +1,10 @@
+.outer_cly{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+.actual_anim{
+    margin-bottom: 2rem;
+}
